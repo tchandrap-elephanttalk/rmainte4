@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server.csproj", "{00453ED3-21B8-49CA-BD2E-DE361B2B387F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "..\Client\Client.csproj", "{727156E0-CDDB-4440-A842-0769E825293D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Granados", "..\Granados\Granados.csproj", "{3CFC3062-A542-444E-AC32-6128340C8619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00453ED3-21B8-49CA-BD2E-DE361B2B387F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00453ED3-21B8-49CA-BD2E-DE361B2B387F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00453ED3-21B8-49CA-BD2E-DE361B2B387F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00453ED3-21B8-49CA-BD2E-DE361B2B387F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{727156E0-CDDB-4440-A842-0769E825293D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727156E0-CDDB-4440-A842-0769E825293D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727156E0-CDDB-4440-A842-0769E825293D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727156E0-CDDB-4440-A842-0769E825293D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFC3062-A542-444E-AC32-6128340C8619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFC3062-A542-444E-AC32-6128340C8619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFC3062-A542-444E-AC32-6128340C8619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFC3062-A542-444E-AC32-6128340C8619}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
